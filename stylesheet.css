@@ -1,0 +1,42 @@
+body {
+  margin: 0;  
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.header {
+    background: orange;
+    padding: 1rem;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+}
+
+.content {
+    background: salmon;
+    padding: 1rem;
+    flex-grow: 1;
+}
+
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    background: skyblue;
+    padding: 1rem;
+}
+
+.sidebar2 {
+    background: lime;
+    padding: 1rem;
+}
+
+.footer {
+    background: beige;
+    padding: 1rem;
+}
