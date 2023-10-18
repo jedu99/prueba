@@ -8,8 +8,9 @@ body {
 }
 
 .header {
-    background: orange;
+    background: rgb(243, 238, 230);
     padding: 1rem;
+    text-align: center;
 }
 
 .main {
