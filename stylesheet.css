@@ -14,8 +14,7 @@ body {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 1.5em;
-}
-
+    
 .main {
     display: flex;
     flex-direction: row;
@@ -23,7 +22,7 @@ body {
 }
 
 .content {
-    background: rgb(119, 12, 0);
+    background: rgb(228, 143, 134);
     padding: 1rem;
     flex-grow: 1;
 }
@@ -36,7 +35,7 @@ body {
 }
 
 .sidebar2 {
-    background: lime;
+    background: rgb(0, 229, 255);
     padding: 1rem;
 }
 
